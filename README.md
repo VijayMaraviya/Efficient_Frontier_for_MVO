@@ -1,4 +1,4 @@
-# Efficient_Frontier_for_MVO
+# Efficient Frontier for Mean Variance Optimization
 
 ![alt text](https://github.com/VijayMaraviya/Efficient_Frontier_for_MVO/blob/master/3%20assets%20vs%208%20assets.jpg)
 
